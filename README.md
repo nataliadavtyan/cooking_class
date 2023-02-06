@@ -1,11 +1,30 @@
-## About Scrimba
+# Cooking class form
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Responsive website with a form to sign up for a cooking class
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
+Users can add their name and email to request more information about the upcoming class. They can open the website on any device.
 
-Happy Coding!
+## Demo
+![Screenshot 1](images/screenshot-1.png)
+![Screenshot 2](images/screenshot-2.png)
+
+Test it on Netlify: https://dynamic-taiyaki-30163f.netlify.app/
+
+## Technologies
+The project is built using:
+* HTML
+* CSS
+
+## Technical details
+* Used relative units and media query to make the website responsive.
+* Used mobile-first approach.
+
+## Acknowledgements
+The core of this project was built during the class on [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend) by Guil Hernandez and later edited by me.
+
+## Project status
+The project is complete.
+
+## Contact
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan)

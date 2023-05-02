@@ -9,7 +9,7 @@ Users can add their name and email to request more information about the upcomin
 ![Screenshot 1](images/screenshot-1.png)
 ![Screenshot 2](images/screenshot-2.png)
 
-Test it on Netlify: https://dynamic-taiyaki-30163f.netlify.app/
+Test it on Netlify: https://cooking-class-form-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
